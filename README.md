@@ -69,8 +69,8 @@
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/colab/colab-original.svg" height="40" alt="colab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/detectron2/detectron2-original.svg" height="40" alt="detectron2 logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/detectron2/detectron2-original.svg" height="40" alt="detectron2 logo"  /> -->
+<!--   <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wire-shark/wire-shark-original.svg" height="40" alt="wire-shark logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
