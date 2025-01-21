@@ -23,35 +23,59 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Web Development</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vite"/>
   </a>
 </div>
 
-<div align="center">
+###
+
+<h3 align="left">🛠 Desing</h3>
+
+###
+
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,figma"/>
   </a>
 </div>
 
-<div align="center">
+###
+
+<h3 align="left">🛠 Programming Languages</h3>
+
+###
+
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,js,nodejs"/>
   </a>
 </div>
 
-<div align="center">
+###
+
+<h3 align="left">🛠 Database</h3>
+
+###
+
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,mongo,express"/>
   </a>
 </div>
 
-<div align="center">
+###
+
+<h3 align="left">🛠 Toolss</h3>
+
+###
+
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,vscode,discord,git,github"/>
   </a>
