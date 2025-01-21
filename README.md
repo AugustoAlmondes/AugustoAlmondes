@@ -27,31 +27,31 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vite"/>
   </a>
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,figma"/>
   </a>
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,py,js,nodejs"/>
   </a>
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,mongo,express"/>
   </a>
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,vscode,discord,git,github"/>
   </a>
