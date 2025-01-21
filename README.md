@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm [Seu Nome] from [Sua Localização] <br><br>- 🔭 I’m working as [Sua Profissão ou Cargo]<br>- 📚 I'm currently learning [O que você está aprendendo]<br>- ⚡ In my free time I [O que você gosta de fazer no seu tempo livre]</p>
 
 ###
 
@@ -63,5 +63,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
