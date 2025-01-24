@@ -41,7 +41,7 @@ I am eager to collaborate on innovative projects, contribute to the tech communi
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vite"/>
+    <img height=35 src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vite"/>
   </a>
 </div>
 
@@ -53,7 +53,7 @@ I am eager to collaborate on innovative projects, contribute to the tech communi
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,figma"/>
+    <img height=35 src="https://skillicons.dev/icons?i=ps,figma"/>
   </a>
 </div>
 
@@ -65,7 +65,7 @@ I am eager to collaborate on innovative projects, contribute to the tech communi
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,js,nodejs"/>
+    <img height=35 src="https://skillicons.dev/icons?i=c,py,js,nodejs"/>
   </a>
 </div>
 
@@ -77,7 +77,7 @@ I am eager to collaborate on innovative projects, contribute to the tech communi
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,mongo,express"/>
+    <img height=35 src="https://skillicons.dev/icons?i=mysql,postgres,prisma,mongo,express"/>
   </a>
 </div>
 
@@ -89,7 +89,7 @@ I am eager to collaborate on innovative projects, contribute to the tech communi
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,vscode,discord,git,github"/>
+    <img height=35 src="https://skillicons.dev/icons?i=docker,vscode,discord,git,github"/>
   </a>
 </div>
 
