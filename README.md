@@ -63,19 +63,19 @@ I am eager to collaborate on innovative projects, contribute to the tech communi
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img height=35 src="https://skillicons.dev/icons?i=c,py,js,nodejs"/>
+    <img height=35 src="https://skillicons.dev/icons?i=c,py,js"/>
   </a>
 </div>
 
 ###
 
-<h3 align="left">🛠 Database</h3>
+<h3 align="left">🛠Backend and Database</h3>
 
 ###
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img height=35 src="https://skillicons.dev/icons?i=mysql,postgres,prisma,mongo,express"/>
+    <img height=35 src="https://skillicons.dev/icons?i=mysql,postgres,prisma,mongo,express,nodejs"/>
   </a>
 </div>
 
