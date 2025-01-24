@@ -17,11 +17,23 @@
   </a>
 </div>
 
-<h3 align="left">👩‍💻  About Me</h3>
+Aqui está uma versão mais profissional da sua seção "About Me" para o GitHub:  
 
-<p align="left">I'm Augusto Alnondes from Brazil <br><br>- 🔭 I’m working as Web Developer and Design<br>- 📚 I'm currently learning in the Universidade Federal do Piauí (UFPI) <br>- ⚡ In my free time I like to improve my knowledge</p>
+<h3 align="left">👨‍💻 About Me</h3>
 
-###
+<p align="left">
+Hello! My name is <strong>Augusto Almondes</strong>, and I am a Web Developer and Designer from Brazil. With a passion for creating impactful digital solutions, I strive to combine technical expertise with creative problem-solving.
+</p>
+
+- 🔭 **Professional Focus:** Developing modern, user-friendly web applications and designing intuitive interfaces.  
+- 🎓 **Education:** Pursuing a degree at the **Federal University of Piauí (UFPI)**, where I am deepening my knowledge in technology and innovation.  
+- 🌱 **Continuous Growth:** Constantly expanding my skill set and staying updated with the latest trends in technology and design.  
+- 🚀 **Key Interests:** Web Development (Front-end and Back-end), UI/UX Design, and Machine Learning.  
+- ⚡ **Personal Motto:** Committed to lifelong learning and delivering excellence in everything I do.
+
+<p align="left">
+I am eager to collaborate on innovative projects, contribute to the tech community, and continue growing both personally and professionally.
+</p>
 
 <h3 align="left">🛠 Web Development</h3>
 
@@ -71,7 +83,7 @@
 
 ###
 
-<h3 align="left">🛠 Toolss</h3>
+<h3 align="left">🛠 Tools</h3>
 
 ###
 
