@@ -17,8 +17,6 @@
   </a>
 </div>
 
-Aqui está uma versão mais profissional da sua seção "About Me" para o GitHub:  
-
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
