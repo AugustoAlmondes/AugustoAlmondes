@@ -59,7 +59,7 @@ I am eager to collaborate on innovative projects, contribute to the tech communi
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img height=35 src="https://skillicons.dev/icons?i=c,py,js"/>
+    <img height=35 src="https://skillicons.dev/icons?i=c,py,js,ts"/>
   </a>
 </div>
 
