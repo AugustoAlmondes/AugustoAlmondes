@@ -47,7 +47,7 @@ Hello! I'm **Augusto Almondes**, a passionate **Web Developer** and **UI/UX Desi
 
 ### ⚙️ Backend & Databases
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongo,postgres,mysql,pnpm" height="35" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongo,postgres,mysql,pnpm,nestjs" height="35" />
 </div>
 
 ### 🔧 Tools & Platforms
