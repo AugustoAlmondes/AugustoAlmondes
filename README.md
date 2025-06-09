@@ -32,7 +32,7 @@ Hello! I'm **Augusto Almondes**, a passionate **Web Developer** and **UI/UX Desi
 
 ### 👨‍💻 Web Development
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap" height="35" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind" height="35" />
 </div>
 
 ### 🎨 UI/UX & Design
