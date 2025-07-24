@@ -60,11 +60,14 @@ Hello! I'm **Augusto Almondes**, a passionate **Web Developer** and **UI/UX Desi
 ## 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/augusto-almondes-812196231" target="_blank">
+  <a href="https://www.linkedin.com/in/augusto-almondes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/augusto_almondes" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://augusto-almondes.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-50B8F9?style=for-the-badge&logo=web&logoColor=white" />
   </a>
 </div>
 
