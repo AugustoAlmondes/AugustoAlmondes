@@ -37,7 +37,7 @@ Hello! I'm **Augusto Almondes**, a passionate **Web Developer** and **UI/UX Desi
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind" height="45" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" height="45" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=figma,ps" height="45" />
@@ -45,22 +45,26 @@ Hello! I'm **Augusto Almondes**, a passionate **Web Developer** and **UI/UX Desi
   </tr>
   <tr>
     <td align="center" style="font-size: 22px; font-weight: bold;">🧠 Programming Languages</td>
-    <td align="center" style="font-size: 22px; font-weight: bold;">⚙️ Backend & Databases</td>
+    <td align="center" style="font-size: 22px; font-weight: bold;">⚙️ Backend</td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=py,c,js,ts" height="45" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongo,postgres,mysql,pnpm,nestjs" height="45" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,nestjs" height="45" />
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" style="font-size: 22px; font-weight: bold;">🔧 Tools & Platforms</td>
+    <td  align="center" style="font-size: 22px; font-weight: bold;">📰 Databases</td>
+    <td  align="center" style="font-size: 22px; font-weight: bold;">🔧 Tools & Platforms</td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://skillicons.dev/icons?i=docker,vscode,git,github,discord,netlify,vercel" height="45" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongo,postgres,mysql" height="45" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite,docker,git,github,netlify,vercel" height="45" />
     </td>
   </tr>
 </table>
