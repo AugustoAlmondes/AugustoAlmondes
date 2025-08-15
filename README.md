@@ -1,7 +1,7 @@
 <!-- Banner Animado -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub!;I'm+Augusto+Almondes+%F0%9F%91%8B;Web+Developer+%7C+UI%2FUX+Designer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=58A6FF&size=38&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=200&lines=Welcome+to+my+GitHub!;I'm+Augusto+Almondes+%F0%9F%91%8B;Web+Developer+%7C+UI%2FUX+Designer+%7C+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -30,32 +30,40 @@ Hello! I'm **Augusto Almondes**, a passionate **Web Developer** and **UI/UX Desi
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Web Development
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind" height="35" />
-</div>
-
-### 🎨 UI/UX & Design
-<div>
-  <img src="https://skillicons.dev/icons?i=figma,ps" height="35" />
-</div>
-
-### 🧠 Programming Languages
-<div>
-  <img src="https://skillicons.dev/icons?i=py,c,js,ts" height="35" />
-</div>
-
-### ⚙️ Backend & Databases
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongo,postgres,mysql,pnpm,nestjs" height="35" />
-</div>
-
-### 🔧 Tools & Platforms
-<div>
-  <img src="https://skillicons.dev/icons?i=docker,vscode,git,github,discord" height="35" />
-</div>
-
----
+<table align="center">
+  <tr>
+    <td align="center" style="font-size: 22px; font-weight: bold;">👨‍💻 Web Development</td>
+    <td align="center" style="font-size: 22px; font-weight: bold;">🎨 UI/UX & Design</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind" height="45" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma,ps" height="45" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="font-size: 22px; font-weight: bold;">🧠 Programming Languages</td>
+    <td align="center" style="font-size: 22px; font-weight: bold;">⚙️ Backend & Databases</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,c,js,ts" height="45" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongo,postgres,mysql,pnpm,nestjs" height="45" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="font-size: 22px; font-weight: bold;">🔧 Tools & Platforms</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://skillicons.dev/icons?i=docker,vscode,git,github,discord,netlify,vercel" height="45" />
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Connect With Me
 
