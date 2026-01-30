@@ -41,7 +41,7 @@ Hello! I'm **Augusto Almondes**, a passionate **Web Developer** and **UI/UX Desi
       <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" height="45" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma,ps,canva" height="45" />
+      <img src="https://skillicons.dev/icons?i=figma,ps" height="45" />
     </td>
   </tr>
   <tr>
