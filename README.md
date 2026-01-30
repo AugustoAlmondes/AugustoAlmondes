@@ -37,10 +37,11 @@ Hello! I'm **Augusto Almondes**, a passionate **Web Developer** and **UI/UX Desi
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,react,next,bootstrap,tailwind" height="45" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,next" height="45" /> <br/>
+      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" height="45" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma,ps" height="45" />
+      <img src="https://skillicons.dev/icons?i=figma,ps,canva" height="45" />
     </td>
   </tr>
   <tr>
@@ -64,7 +65,8 @@ Hello! I'm **Augusto Almondes**, a passionate **Web Developer** and **UI/UX Desi
       <img src="https://skillicons.dev/icons?i=mongo,postgres,mysql" height="45" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite,docker,git,github,netlify,vercel" height="45" />
+      <img src="https://skillicons.dev/icons?i=vite,docker,netlify,vercel" height="45" /> <br/>
+      <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman" height="45" />
     </td>
   </tr>
 </table>
