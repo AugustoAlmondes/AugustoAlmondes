@@ -62,7 +62,7 @@ Hello! I'm **Augusto Almondes**, a passionate **Web Developer** and **UI/UX Desi
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongo,postgres,mysql" height="45" />
+      <img src="https://skillicons.dev/icons?i=mongo,postgres,mysql,supabase" height="45" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vite,docker,netlify,vercel" height="45" /> <br/>
