@@ -21,10 +21,7 @@ Hello! I'm **Augusto Almondes**, a passionate **Web Developer** and **UI/UX Desi
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustoalmondes&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoalmondes&layout=compact&theme=radical&hide_border=true" />
-</div>
+<div align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=augustoalmondes&theme=radical" /> </div> <div align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=augustoalmondes&theme=radical" /> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=augustoalmondes&theme=radical" /> </div>
 
 ---
 
