@@ -29,13 +29,20 @@ Hello! I'm **Augusto Almondes**, a passionate **Web Developer** and **UI/UX Desi
 
 <table align="center">
   <tr>
-    <td align="center" style="font-size: 22px; font-weight: bold;">👨‍💻 Web Development</td>
+    <td colspan=2 align="center" style="font-size: 22px; font-weight: bold;">👨‍💻 Web Development</td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,react,next,bootstrap,tailwind,materialui" height="45" /> <br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="font-size: 22px; font-weight: bold;">🌐 Platforms</td>
     <td align="center" style="font-size: 22px; font-weight: bold;">🎨 UI/UX & Design</td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,react,next" height="45" /> <br/>
-      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" height="45" />
+      <img src="https://skillicons.dev/icons?i=github,bitbucket,supabase,netlify,vercel" height="45" /> <br/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=figma,ps" height="45" />
@@ -55,15 +62,14 @@ Hello! I'm **Augusto Almondes**, a passionate **Web Developer** and **UI/UX Desi
   </tr>
   <tr>
     <td  align="center" style="font-size: 22px; font-weight: bold;">📰 Databases</td>
-    <td  align="center" style="font-size: 22px; font-weight: bold;">🔧 Tools & Platforms</td>
+    <td  align="center" style="font-size: 22px; font-weight: bold;">🔧 Tools</td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongo,postgres,mysql,supabase" height="45" />
+      <img src="https://skillicons.dev/icons?i=mongo,postgres,mysql" height="45" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite,docker,netlify,vercel" height="45" /> <br/>
-      <img src="https://skillicons.dev/icons?i=git,github,bitbucket,postman" height="45" />
+      <img src="https://skillicons.dev/icons?i=git,vite,postman,docker" height="45" /> <br/>
     </td>
   </tr>
 </table>
